@@ -1,0 +1,16 @@
+{
+  "name": "FOST 6003 Food Chemistry Study Quest",
+  "short_name": "FOST 6003",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#f8d9e8",
+  "icons": [
+    {
+      "src": "FOST6003_home_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
